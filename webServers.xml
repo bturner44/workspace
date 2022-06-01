@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fce406d7-c397-4f27-a95f-a8667c5d860a" name="cmeattempt" url="http://ftp.cmegroup.com">
+        <fileTransfer anonymous="true" rootFolder="/cme/ftp/PUB" host="ftp.cmegroup.com" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
